@@ -1,0 +1,20 @@
+📌 Contexto:
+
+Un formulario de registro no guarda información.
+
+❌ Código:
+<form>
+    <input type="text" placeholder="Nombre">
+    <input type="email" placeholder="Correo">
+    <button>Enviar</button>
+</form>
+🎯 Tu misión:
+Hacer que el formulario funcione correctamente
+💡 Pista:
+
+Faltan atributos importantes
+
+✅ Habilidad:
+
+✔ Formularios funcionales
+✔ Buenas prácticas HTML
