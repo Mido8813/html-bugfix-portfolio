@@ -1,0 +1,18 @@
+Contexto:
+
+Te piden mejorar la accesibilidad de la web.
+
+❌ Código:
+<img src="producto.jpg">
+
+<input type="text">
+🎯 Tu misión:
+Mejorar el código para accesibilidad
+💡 Pista:
+
+Faltan atributos clave
+
+✅ Habilidad:
+
+✔ Buenas prácticas
+✔ Accesibilidad web (muy valorado en trabajo real)
