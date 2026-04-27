@@ -1,0 +1,18 @@
+Contexto:
+
+El cliente dice: “mi página se ve fea, sin diseño”.
+
+❌ Código:
+<head>
+    <link rel="stylesheet" href="estilo.csss">
+</head>
+🎯 Tu misión:
+Detectar por qué no carga el CSS
+💡 Pista:
+
+Error tipográfico
+
+✅ Habilidad:
+
+✔ Mantenimiento
+✔ Atención al detalle
