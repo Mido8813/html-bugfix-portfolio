@@ -1,0 +1,17 @@
+Contexto:
+
+Una empresa te dice que su logo no aparece en la web.
+
+❌ Código con error:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Empresa</title>
+</head>
+<body>
+
+<h1>Bienvenido</h1>
+<img src="imagenes/logo.png">
+
+</body>
+</html>
