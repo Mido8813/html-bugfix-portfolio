@@ -1,0 +1,18 @@
+📌 Contexto:
+
+Un cliente dice que su botón de contacto no responde.
+
+❌ Código:
+<button>Contactar
+<a href="contacto.html">Ir a contacto</a>
+🎯 Tu misión:
+Arreglar la estructura HTML
+Hacer que el botón funcione correctamente
+💡 Pista:
+
+HTML mal anidado
+
+✅ Habilidad:
+
+✔ Estructura HTML correcta
+✔ UX básica
