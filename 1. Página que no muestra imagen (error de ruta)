@@ -1,4 +1,5 @@
-Contexto:
+1. Página que no muestra imagen (error de ruta)
+📌 Contexto:
 
 Una empresa te dice que su logo no aparece en la web.
 
@@ -15,3 +16,14 @@ Una empresa te dice que su logo no aparece en la web.
 
 </body>
 </html>
+🎯 Tu misión:
+Encontrar por qué no carga la imagen
+Corregirlo
+💡 Pista:
+
+La carpeta correcta es: img/logo.png
+
+✅ Habilidad que demuestras:
+
+✔ Corrección de rutas
+✔ Debugging básico frontend
